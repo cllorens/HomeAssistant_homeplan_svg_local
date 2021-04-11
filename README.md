@@ -5,9 +5,11 @@ I has used the old Corel draw to draw the floorplan and arrange all the graphics
 
 if you want to show the florplan in the sidebar you can add this to the configuration.yaml:
 
+``` yaml
 # panel iframe
 panel_iframe:
   plano:
     title: "Plano"
     icon: mdi:floor-plan
     url: "/local/index.html"
+```
