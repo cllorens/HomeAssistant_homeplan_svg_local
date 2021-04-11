@@ -1,0 +1,1 @@
+# HomeAssistant_homeplan_svg_local
