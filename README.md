@@ -14,5 +14,6 @@ panel_iframe:
     url: "/local/index.html"
 ```
 you can also add a webpage pannel to lovelace:
+
 ![floorplan panel](/images/panel.png)
-Format: ![Alt Text](url)
+
